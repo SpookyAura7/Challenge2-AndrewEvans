@@ -1,0 +1,71 @@
+/* widespread styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #8D918D;
+}
+
+/* Header Styles */
+
+.header {
+    padding: 20px;
+    background-color: #4B0101;
+    background-size: cover;
+    background-position: 50% 35%;
+    height: 100px;
+}
+
+.header h1 a {
+    color: #f9f6ee;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.header a {
+    color:#000000;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+
+/* Hero Styles */
+
+.hero {
+    padding: 20px;
+    background-image: url(../images/family-pic.jpg);
+    background-size: cover;
+    background-position: 50% 35%;
+    height: 250px;
+    color: #000000;
+}
+
+/* End Hero Styles */
+
+.content {
+    display: inline-block;
+    
+}
+
+.flex-container {
+    display: flex;
+}
