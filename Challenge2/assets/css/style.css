@@ -66,6 +66,26 @@ body {
     
 }
 
+
+/* Projects styling */
+
 .flex-container {
     display: flex;
+    flex-wrap: wrap;
+}
+
+.project-pic1 {
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+}
+
+.project-sample {
+    height: 200px;
+    width: 400px;
+    padding: 10px;
+}
+
+.projects h3 {
+    padding:10px;
 }
