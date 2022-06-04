@@ -87,5 +87,13 @@ body {
 }
 
 .projects h3 {
-    padding:10px;
+    padding: 0px 10px 10px 10px;
+}
+
+h2 {
+    padding: 0px 10px 10px 10px;
+}
+
+p {
+    padding: 0px 10px 10px 10px;
 }
