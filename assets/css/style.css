@@ -94,6 +94,27 @@ h2 {
     padding: 0px 10px 10px 10px;
 }
 
+h4 {
+    padding: 0px 10px 10px 10px;
+}
+
 p {
     padding: 0px 10px 10px 10px;
+}
+
+/* End Projects Styling */
+address {
+    padding: 0px 10px 10px 10px;
+}
+
+.resume-link {
+    text-decoration: none;
+    color:#000000;
+    font-weight: bold;
+    padding: 0px 10px 10px 10px;
+}
+
+.indeed-image {
+    height:auto;
+    width:auto;
 }
